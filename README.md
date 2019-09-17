@@ -1,2 +1,2 @@
 # dm2
-repositorio para multiplataforma
+repositorio para dm2
